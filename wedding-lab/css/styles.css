@@ -1,0 +1,92 @@
+.bodoni-moda {
+  font-family: "Bodoni Moda", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.lexend-giga {
+  font-family: "Lexend Giga", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.dm-sans {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Bodoni Moda", serif;
+  font-size: 80px;
+  margin-top: 40px;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Bodoni Moda", serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+h5 {
+  font-family: "DM Sans", sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+button {
+  display: block;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: rgb(166, 166, 250);
+}
+
+p {
+  font-family:  "DM Sans", sans-serif;
+  text-align: center;
+  font-weight: 500;
+}
+
+.container-fluid {
+  padding: 3% 10%;
+}
+/* sections*/
+#title {
+  background-color: lavender;
+  padding: 100, 80;
+}
+
+#press {
+  background-color: white;
+}
+
+#footer {
+  padding: 2% 15%;
+  text-align: center;
+  background-color: lavender;
+}
+
+.weddingPics {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+#messageContainer {
+  color: black;
+  font-family: "DM Sans", sans-serif;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
